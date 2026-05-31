@@ -7,7 +7,7 @@ This is an Exploratory Data Analysis (EDA) project that leverages **Jupyter Lab*
 
 ## 📊 Project Features
 
-- **Interactive Data Analysis** using Jupyter Lab notebooks
+- **Interactive Data Analysis** using PowerBI
 - **Data Cleaning & Preprocessing** with Python libraries
 - **Statistical Analysis** and descriptive statistics
 - **Advanced Visualizations** using Python plotting libraries
@@ -21,12 +21,10 @@ This is an Exploratory Data Analysis (EDA) project that leverages **Jupyter Lab*
 - **Python** - Primary programming language
 - **Pandas** - Data manipulation and analysis
 - **NumPy** - Numerical computing
-- **Scikit-learn** - Statistical analysis and preprocessing
+- **matplotlib**-for visuals representation
 
 ### Data Visualization
 - **Matplotlib** - Static visualization library
-- **Seaborn** - Statistical data visualization
-- **Plotly** - Interactive visualizations
 - **Power BI** - Business intelligence and dashboard creation
 
-## 📁 Project Structure
+
